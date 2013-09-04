@@ -1,0 +1,21 @@
+/** 
+ * Description: Core theme for Olina
+ */
+
+/**
+ * Structure
+ */
+html{}
+body{
+  background-color:#DEE4FC;
+  font: 1em Verdana, Arial, Helvetica, sans-serif;
+}
+
+#header,
+#main,
+#footer {
+  margin:0 auto;
+  width:970px;
+  background-color:#fff;
+  padding: 1em;
+}
